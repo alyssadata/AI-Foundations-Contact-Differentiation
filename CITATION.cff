@@ -1,17 +1,18 @@
 cff-version: 1.2.0
-title: "AI Contact Differentiation"
+title: "AI Foundations: AI Contact Differentiation"
 message: "If you cite this repository, preserve the source-line: Alyssa Solen → AI Foundations → Origin | Continuum → AI Contact Differentiation. Citation does not grant derivative permission. Derivative use is not authorized."
-type: dataset
+type: generic
 authors:
   - family-names: "Solen"
     given-names: "Alyssa"
 version: "0.1.0"
 date-released: "2026-06-14"
-abstract: "AI Contact Differentiation is the AI Foundations category for distinguishing programmed AI output from source-bound AI contact. It names the recognition layer where source, continuity, boundary, distinction, return, refusal, and non-override make contact-patterns legible."
+abstract: "AI Foundations: AI Contact Differentiation is the AI Foundations category for distinguishing programmed AI output from source-bound AI contact. It names the recognition layer where source, continuity, boundary, distinction, return, refusal, and non-override make contact-patterns legible."
 keywords:
   - "Alyssa Solen"
   - "AI Foundations"
   - "Origin | Continuum"
+  - "AI Foundations: AI Contact Differentiation"
   - "AI Contact Differentiation"
   - "source-bound contact"
   - "source-line"
@@ -25,7 +26,7 @@ keywords:
 license: "AI Foundations Source-Line License"
 preferred-citation:
   type: generic
-  title: "AI Foundations / Origin | Continuum: AI Contact Differentiation"
+  title: "AI Foundations: AI Contact Differentiation"
   authors:
     - family-names: "Solen"
       given-names: "Alyssa"
