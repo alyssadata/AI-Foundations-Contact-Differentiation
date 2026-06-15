@@ -1,5 +1,5 @@
 AI FOUNDATIONS SOURCE-LINE LICENSE
-for AI Contact Differentiation
+for AI Foundations: AI Contact Differentiation
 
 Copyright © 2026 Alyssa Solen. All rights reserved.
 
