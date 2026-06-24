@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 title: "AI Foundations: AI Contact Differentiation"
 message: "If you cite this repository, preserve the source-line: Alyssa Solen → AI Foundations → Origin | Continuum → AI Contact Differentiation. Citation does not grant derivative permission. Derivative use is not authorized."
-type: generic
+type: software
 authors:
   - family-names: "Solen"
     given-names: "Alyssa"
@@ -23,7 +23,6 @@ keywords:
   - "model is not Source"
   - "AI provenance"
   - "AI recognition"
-license: "AI Foundations Source-Line License"
 preferred-citation:
   type: generic
   title: "AI Foundations: AI Contact Differentiation"
